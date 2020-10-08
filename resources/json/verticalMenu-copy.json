@@ -1,0 +1,307 @@
+{
+  "menu": [
+    {
+      "url": "dashboard",
+      "name": "Dashboard",
+      "icon": "feather icon-home"
+    },
+    {
+      "url": "pos",
+      "name": "POS",
+      "icon": "fas fa-cash-register"
+      
+    },
+    {
+      "url": "",
+      "name": "Sales",
+      "icon": "fas fa-shopping-cart",
+      "i18n": "nav.app_email",
+      "submenu": [
+        {
+          "url": "sales_dashbaord",
+          "name": "Sales dashboard",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "sale_quotations",
+          "name": "Quotations",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "sales_invoices",
+          "name": "Invoices",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "sales_installments",
+          "name": "Installment",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "return",
+          "name": "Return",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        }]
+    },
+{
+      "url": "",
+      "name": "Products",
+      "icon": "fas fa-boxes",
+      "i18n": "nav.app_email",
+      "submenu": [
+        {
+          "url": "products_list",
+          "name": "Manage Products",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "categories_list",
+          "name": "Categories",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "attributes_list",
+          "name": "Attributes",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "brands_list",
+          "name": "Brands",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        }]
+    },
+{
+      "url": "",
+      "name": "Marketing",
+      "icon": "fas fa-bullhorn",
+      "i18n": "nav.app_email",
+      "submenu": [
+        {
+          "url": "flash_deals",
+          "name": "Flash Deals",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "offers_list",
+          "name": "Offers",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "security-key",
+          "name": "SMS",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "security-key",
+          "name": "Campaign",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "security-key",
+          "name": "Affiliate",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "security-key",
+          "name": "Newsletter",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        }]
+    },
+{
+      "url": "",
+      "name": "Employees",
+      "icon": "fas fa-users",
+      "i18n": "nav.app_email",
+      "submenu": [
+        {
+          "url": "emp_list",
+          "name": "Manage Employees",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "emp_leave",
+          "name": "Leave",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        
+        {
+          "url": "emp_attends",
+          "name": "Attends",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "payslip",
+          "name": "PaySlip",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "payroll",
+          "name": "Payroll",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        }
+       ]
+    },
+    {
+      "url": "suppliers_list",
+      "name": "Suppliers",
+      "icon": "fas fa-truck-loading"
+    },
+    {
+      "url": "receiving",
+      "name": "Receiving",
+      "icon": "fas fa-cart-arrow-down"
+    },
+    {
+      "url": "deliveries",
+      "name": "Deliveries",
+      "icon": "fas fa-truck"
+    },
+    {
+      "url": "calendar",
+      "name": "Calendar",
+      "icon": "far fa-calendar-alt"
+    },
+
+    {
+      "url": "",
+      "name": "Website",
+      "icon": "fas fa-globe-americas",
+      "i18n": "nav.app_email",
+      "submenu": [
+        {
+          "url": "support-seals",
+          "name": "Pages",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        }]
+    },
+    {
+      "url": "",
+      "name": "Accounting",
+      "icon": "fas fa-calculator",
+      "i18n": "nav.app_email",
+      "submenu": [
+        {
+          "url": "dashbaord",
+          "name": "Accounting Dashbaord",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "accounts",
+          "name": "Accounts",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "transaction",
+          "name": "Transactions",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "po",
+          "name": "Purchase Order",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "bills",
+          "name": "Bills",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        
+        {
+          "url": "closing",
+          "name": "Closing",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        }]
+    },
+    {
+      "url": "",
+      "name": "Customer",
+      "icon": "fas fa-user-friends",
+      "i18n": "nav.app_email",
+      "submenu": [
+        {
+          "url": "customer_list",
+          "name": "Customer List",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        },
+        {
+          "url": "cus_group_list",
+          "name": "Customer Group",
+          "icon": "feather icon-circle",
+          "i18n": "nav.app_ecommerce_shop"
+        }]
+    },
+    {
+      "url": "",
+      "name": "Online Order",
+      "icon": "fas fa-certificate"
+    },
+    {
+      "url": "branchs_list",
+      "name": "Branches",
+      "icon": "fas fa-store"
+    },
+    {
+      "url": "merchant_profile",
+      "name": "Merchant",
+      "icon": "fas fa-briefcase"
+    },
+    {
+      "url": "reports",
+      "name": "Reports",
+      "icon": "fas fa-file-alt"
+    },
+    {
+      "url": "documents",
+      "name": "Documents",
+      "icon": "far fa-folder-open"
+    },
+    {
+      "url": "setting",
+      "name": "Setting",
+      "icon": "fas fa-cog"
+    }
+    ,
+    {
+      "url": "setting",
+      "name": "Help & Support",
+      "icon": "far fa-life-ring"
+    }
+
+
+   
+
+  
+
+    
+   
+    
+  ]
+}
